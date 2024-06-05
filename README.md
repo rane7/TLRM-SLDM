@@ -28,6 +28,6 @@ python test.py --datasetroot ./TLRM_dataset
 ```
 ## Acknowledgements
 
-Our code is developed based on [SDM](https://github.com/WeilunWang/semantic-diffusion-model). Thanks [guided-diffusion](https://github.com/openai/guided-diffusion), "test_with_FID.py" in [OASIS](https://github.com/w-star/oasis) for FID computation, and "lpips.py" in [stargan-v2](https://github.com/clovaai/stargan-v2) for LPIPS computation.
+Our code is developed based on [SDM](https://github.com/WeilunWang/semantic-diffusion-model). Thanks [guided-diffusion](https://github.com/openai/guided-diffusion), "test_with_FID.py" in [OASIS](https://github.com/boschresearch/OASIS) for FID computation, and "lpips.py" in [stargan-v2](https://github.com/clovaai/stargan-v2) for LPIPS computation.
 
 
